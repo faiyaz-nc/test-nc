@@ -1,0 +1,44 @@
+# Script Generated Files #
+##########################
+.sass-cache
+node_modules/
+server/public/
+*.log
+*.log_json
+*.json_lines
+*.json_lines.log
+reports
+.nodemonignore
+fixtures/review/
+dump.rdb
+logs/*.log
+/mocks
+server/deployOptions.json
+server/scripts/logs/*
+
+# OS generated files #
+######################
+
+.idea
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+css/screen.css
+client/.tmp/*
+*.sublime-project
+*.sublime-workspace
+
+# Other #
+##########################
+./private/
+.editorconfig
+server/config/config/development.js
+server/config/config/local.js
+Gruntfile-local.js
+*.iml
+.nvmrc

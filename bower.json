@@ -1,0 +1,21 @@
+{
+  "name": "test-nc",
+  "version": "0.0.0",
+  "homepage": "https://github.com/faiyaz-nc/test-nc",
+  "authors": [
+    "Faiyaz <faiyaz@newscred.com>"
+  ],
+  "description": "This is a test module for cmc",
+  "main": "./test.js",
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
